@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo - Tag - DoIt</title>
+        <link>https://hugodoit.pages.dev/tags/hugo/</link>
+        <description>Hugo - Tag - DoIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 28 Dec 2022 15:24:59 &#43;0800</lastBuildDate><atom:link href="https://hugodoit.pages.dev/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>Helloworld</title>
+    <link>https://hugodoit.pages.dev/helloworld/</link>
+    <pubDate>Wed, 28 Dec 2022 15:24:59 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>https://hugodoit.pages.dev/helloworld/</guid>
+    <description><![CDATA[你好hello hugo]]></description>
+</item></channel>
+</rss>
