@@ -2,54 +2,53 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hugodoit.pages.dev/tags/blog/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/categories/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://choleralove.github.io/tags/blog/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://choleralove.github.io/categories/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hugodoit.pages.dev/zh-cn/categories/"
+                        href="https://choleralove.github.io/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://hugodoit.pages.dev/categories/"
+                    href="https://choleralove.github.io/categories/"
                     /></url><url>
-            <loc>https://hugodoit.pages.dev/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://choleralove.github.io/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hugodoit.pages.dev/zh-cn/"
+                        href="https://choleralove.github.io/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://hugodoit.pages.dev/"
+                    href="https://choleralove.github.io/"
                     /></url><url>
-            <loc>https://hugodoit.pages.dev/helloworld/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/tags/hugo/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/posts/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/tags/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://choleralove.github.io/helloworld/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://choleralove.github.io/tags/hugo/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://choleralove.github.io/posts/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://choleralove.github.io/tags/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hugodoit.pages.dev/zh-cn/tags/"
+                        href="https://choleralove.github.io/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://hugodoit.pages.dev/tags/"
+                    href="https://choleralove.github.io/tags/"
                     /></url><url>
-            <loc>https://hugodoit.pages.dev/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/fisrt-blog/</loc><lastmod>2022-12-28T15:12:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hugodoit.pages.dev/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://choleralove.github.io/categories/%E8%AE%B0%E5%BD%95/</loc><lastmod>2022-12-28T15:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>https://choleralove.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hugodoit.pages.dev/zh-cn/authors/"
+                        href="https://choleralove.github.io/zh-cn/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://hugodoit.pages.dev/authors/"
+                    href="https://choleralove.github.io/authors/"
                     /></url><url>
-            <loc>https://hugodoit.pages.dev/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://choleralove.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hugodoit.pages.dev/zh-cn/series/"
+                        href="https://choleralove.github.io/zh-cn/series/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://hugodoit.pages.dev/series/"
+                    href="https://choleralove.github.io/series/"
                     /></url></urlset>
